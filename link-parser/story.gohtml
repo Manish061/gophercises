@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{.PageTitle}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <u><h1>{{.Title}}</h2></h1></u>
+    <p class="main">
+        {{.Story}}
+    </p>
+    <ul>
+        {{with .Options}}
+        <p>
+            Where do you want to go next
+         </p>
+            {{range .}}
+                <li class="options">
+                    <a href="/view?page={{.Arc}}">{{.Text}}</a>
+                </li>
+            {{end}}
+        {{end}}
+    </ul>
+</body>
+
+<style>
+    body{
+        padding: 0px 100px;
+        background-color: brown;
+        color: yellow;
+    }
+
+    button{
+        border-radius: 12px;
+    }
+
+    .main {
+        border: 1px solid red;
+        border-top: none;
+        border-bottom: none;
+        padding: 30px;
+        overflow-x: auto
+    }
+
+    .options{
+        margin: 10px;
+    }
+</style>
+
+</html>

@@ -1,0 +1,928 @@
+-> Crawling child 0/27 of https://www.calhoun.io : https://www.calhoun.io/series.
+-> Crawling child 1/27 of https://www.calhoun.io : https://www.calhoun.io/about.
+-> Crawling child 2/27 of https://www.calhoun.io : https://www.calhoun.io/courses.
+-> Crawling child 3/27 of https://www.calhoun.io : https://www.calhoun.io/scholarship-for-go-courses/.
+-> Crawling child 4/27 of https://www.calhoun.io : https://www.calhoun.io/tdd-is-not-for-me/.
+-> Crawling child 5/27 of https://www.calhoun.io : https://www.calhoun.io/testing-is-not-for-beginners/.
+-> Crawling child 6/27 of https://www.calhoun.io : https://www.calhoun.io/when-nil-isnt-equal-to-nil/.
+-> Crawling child 7/27 of https://www.calhoun.io : https://www.calhoun.io/interfaces-define-requirements/.
+-> Crawling child 8/27 of https://www.calhoun.io : https://www.calhoun.io/building-gophercises/.
+-> Crawling child 9/27 of https://www.calhoun.io : https://www.calhoun.io/page/2/.
+-> Crawling child 10/27 of https://www.calhoun.io : https://www.calhoun.io/6-tips-for-using-strings-in-go/.
+-> Crawling child 11/27 of https://www.calhoun.io : https://www.calhoun.io/intro-to-templates-p3-functions/.
+-> Crawling child 12/27 of https://www.calhoun.io : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/.
+-> Crawling child 13/27 of https://www.calhoun.io : https://www.calhoun.io/creating-random-strings-in-go/.
+-> Crawling child 14/27 of https://www.calhoun.io : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/.
+-> Crawling child 15/27 of https://www.calhoun.io : https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/.
+-> Crawling child 16/27 of https://www.calhoun.io : https://www.calhoun.io/using-postgresql-with-go.
+-> Crawling child 17/27 of https://www.calhoun.io : https://www.calhoun.io/using-postgresql-with-go.
+-> Crawling child 18/27 of https://www.calhoun.io : https://www.calhoun.io/using-postgresql-with-go.
+-> Crawling child 19/27 of https://www.calhoun.io : https://www.calhoun.io/lets-learn-algorithms.
+-> Crawling child 20/27 of https://www.calhoun.io : https://www.calhoun.io/lets-learn-algorithms.
+-> Crawling child 21/27 of https://www.calhoun.io : https://www.calhoun.io/lets-learn-algorithms.
+-> Crawling child 22/27 of https://www.calhoun.io : https://www.calhoun.io/all/.
+-> Crawling child 23/27 of https://www.calhoun.io : https://www.calhoun.io/series.
+-> Crawling child 24/27 of https://www.calhoun.io : https://www.calhoun.io/tags/.
+-> Crawling child 25/27 of https://www.calhoun.io : https://www.calhoun.io/about.
+-> Crawling child 26/27 of https://www.calhoun.io : https://www.calhoun.io/courses.
+<- [https://www.calhoun.io] 0/27 Waiting for child https://www.calhoun.io/series.
+<- Done with https://www.calhoun.io/using-postgresql-with-go, already fetched.
+<- [https://www.calhoun.io] 1/27 Waiting for child https://www.calhoun.io/about.
+<- Done with https://www.calhoun.io/using-postgresql-with-go, already fetched.
+<- [https://www.calhoun.io] 2/27 Waiting for child https://www.calhoun.io/courses.
+<- Done with https://www.calhoun.io/lets-learn-algorithms, already fetched.
+<- [https://www.calhoun.io] 3/27 Waiting for child https://www.calhoun.io/scholarship-for-go-courses/.
+<- Done with https://www.calhoun.io/lets-learn-algorithms, already fetched.
+<- [https://www.calhoun.io] 4/27 Waiting for child https://www.calhoun.io/tdd-is-not-for-me/.
+<- Done with https://www.calhoun.io/series, already fetched.
+<- [https://www.calhoun.io] 5/27 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners/.
+<- Done with https://www.calhoun.io/about, already fetched.
+<- [https://www.calhoun.io] 6/27 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil/.
+<- Done with https://www.calhoun.io/courses, already fetched.
+<- [https://www.calhoun.io] 7/27 Waiting for child https://www.calhoun.io/interfaces-define-requirements/.
+-> Crawling child 0/10 of https://www.calhoun.io/tdd-is-not-for-me/ : https://www.calhoun.io/tdd-is-not-for-me//series.
+-> Crawling child 1/10 of https://www.calhoun.io/tdd-is-not-for-me/ : https://www.calhoun.io/tdd-is-not-for-me//about.
+-> Crawling child 2/10 of https://www.calhoun.io/tdd-is-not-for-me/ : https://www.calhoun.io/tdd-is-not-for-me//courses.
+-> Crawling child 3/10 of https://www.calhoun.io/tdd-is-not-for-me/ : https://www.calhoun.io/tdd-is-not-for-me//testing-is-not-for-beginners/.
+<- Done with https://www.calhoun.io/tdd-is-not-for-me//courses, depth 0.
+<- Done with https://www.calhoun.io/tdd-is-not-for-me//series, depth 0.
+-> Crawling child 4/10 of https://www.calhoun.io/tdd-is-not-for-me/ : https://www.calhoun.io/tdd-is-not-for-me//how-to-test-with-go/.
+-> Crawling child 5/10 of https://www.calhoun.io/tdd-is-not-for-me/ : https://www.calhoun.io/tdd-is-not-for-me//all/.
+-> Crawling child 6/10 of https://www.calhoun.io/tdd-is-not-for-me/ : https://www.calhoun.io/tdd-is-not-for-me//series.
+-> Crawling child 7/10 of https://www.calhoun.io/tdd-is-not-for-me/ : https://www.calhoun.io/tdd-is-not-for-me//tags/.
+<- Done with https://www.calhoun.io/tdd-is-not-for-me//how-to-test-with-go/, depth 0.
+<- Done with https://www.calhoun.io/tdd-is-not-for-me//about, depth 0.
+<- Done with https://www.calhoun.io/tdd-is-not-for-me//all/, depth 0.
+<- Done with https://www.calhoun.io/tdd-is-not-for-me//testing-is-not-for-beginners/, depth 0.
+<- Done with https://www.calhoun.io/tdd-is-not-for-me//series, depth 0.
+-> Crawling child 8/10 of https://www.calhoun.io/tdd-is-not-for-me/ : https://www.calhoun.io/tdd-is-not-for-me//about.
+-> Crawling child 9/10 of https://www.calhoun.io/tdd-is-not-for-me/ : https://www.calhoun.io/tdd-is-not-for-me//courses.
+<- Done with https://www.calhoun.io/tdd-is-not-for-me//about, depth 0.
+<- [https://www.calhoun.io/tdd-is-not-for-me/] 0/10 Waiting for child https://www.calhoun.io/tdd-is-not-for-me//series.
+<- [https://www.calhoun.io/tdd-is-not-for-me/] 1/10 Waiting for child https://www.calhoun.io/tdd-is-not-for-me//about.
+<- Done with https://www.calhoun.io/tdd-is-not-for-me//courses, depth 0.
+<- [https://www.calhoun.io/tdd-is-not-for-me/] 2/10 Waiting for child https://www.calhoun.io/tdd-is-not-for-me//courses.
+<- Done with https://www.calhoun.io/tdd-is-not-for-me//tags/, depth 0.
+<- [https://www.calhoun.io/tdd-is-not-for-me/] 3/10 Waiting for child https://www.calhoun.io/tdd-is-not-for-me//testing-is-not-for-beginners/.
+<- [https://www.calhoun.io/tdd-is-not-for-me/] 4/10 Waiting for child https://www.calhoun.io/tdd-is-not-for-me//how-to-test-with-go/.
+<- [https://www.calhoun.io/tdd-is-not-for-me/] 5/10 Waiting for child https://www.calhoun.io/tdd-is-not-for-me//all/.
+<- [https://www.calhoun.io/tdd-is-not-for-me/] 6/10 Waiting for child https://www.calhoun.io/tdd-is-not-for-me//series.
+<- [https://www.calhoun.io/tdd-is-not-for-me/] 7/10 Waiting for child https://www.calhoun.io/tdd-is-not-for-me//tags/.
+<- [https://www.calhoun.io/tdd-is-not-for-me/] 8/10 Waiting for child https://www.calhoun.io/tdd-is-not-for-me//about.
+<- [https://www.calhoun.io/tdd-is-not-for-me/] 9/10 Waiting for child https://www.calhoun.io/tdd-is-not-for-me//courses.
+<- Done with https://www.calhoun.io/tdd-is-not-for-me/
+<- [https://www.calhoun.io] 8/27 Waiting for child https://www.calhoun.io/building-gophercises/.
+-> Crawling child 0/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms/series.
+-> Crawling child 1/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms/about.
+-> Crawling child 2/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms/courses.
+-> Crawling child 3/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms-an-intro-to-bubble-sort/.
+-> Crawling child 4/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms-implementing-bubble-sort/.
+-> Crawling child 5/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms-reverse-sorting-a-list-of-numbers-with-bubble-sort/.
+-> Crawling child 6/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms-sorting-a-list-of-strings-in-alphabetical-order-with-bubble-sort/.
+-> Crawling child 7/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms-an-intro-to-binary-search/.
+-> Crawling child 8/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms-implementing-binary-search/.
+-> Crawling child 9/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms-queues-in-go/.
+-> Crawling child 10/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms-graph-theory-what-is-a-graph/.
+-> Crawling child 11/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms-graph-theory-trees-are-also-graphs/.
+-> Crawling child 12/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms-graph-theory-representing-a-binary-tree-in-go-code/.
+-> Crawling child 13/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms/all/.
+-> Crawling child 14/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms/series.
+-> Crawling child 0/8 of https://www.calhoun.io/about : https://www.calhoun.io/about/series.
+<- Done with https://www.calhoun.io/lets-learn-algorithms-graph-theory-what-is-a-graph/, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms-graph-theory-representing-a-binary-tree-in-go-code/, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms/series, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms/about, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms/courses, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms-an-intro-to-bubble-sort/, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms-implementing-bubble-sort/, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms-reverse-sorting-a-list-of-numbers-with-bubble-sort/, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms-sorting-a-list-of-strings-in-alphabetical-order-with-bubble-sort/, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms-an-intro-to-binary-search/, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms-implementing-binary-search/, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms-queues-in-go/, depth 0.
+-> Crawling child 1/8 of https://www.calhoun.io/about : https://www.calhoun.io/about/about.
+-> Crawling child 2/8 of https://www.calhoun.io/about : https://www.calhoun.io/about/courses.
+-> Crawling child 3/8 of https://www.calhoun.io/about : https://www.calhoun.io/about/all/.
+-> Crawling child 4/8 of https://www.calhoun.io/about : https://www.calhoun.io/about/series.
+-> Crawling child 5/8 of https://www.calhoun.io/about : https://www.calhoun.io/about/tags/.
+-> Crawling child 6/8 of https://www.calhoun.io/about : https://www.calhoun.io/about/about.
+-> Crawling child 7/8 of https://www.calhoun.io/about : https://www.calhoun.io/about/courses.
+<- [https://www.calhoun.io/about] 0/8 Waiting for child https://www.calhoun.io/about/series.
+<- Done with https://www.calhoun.io/about/courses, depth 0.
+<- [https://www.calhoun.io/about] 1/8 Waiting for child https://www.calhoun.io/about/about.
+<- Done with https://www.calhoun.io/about/series, depth 0.
+<- [https://www.calhoun.io/about] 2/8 Waiting for child https://www.calhoun.io/about/courses.
+<- Done with https://www.calhoun.io/about/about, depth 0.
+<- [https://www.calhoun.io/about] 3/8 Waiting for child https://www.calhoun.io/about/all/.
+-> Crawling child 15/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms/tags/.
+-> Crawling child 16/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms/about.
+-> Crawling child 17/18 of https://www.calhoun.io/lets-learn-algorithms : https://www.calhoun.io/lets-learn-algorithms/courses.
+<- [https://www.calhoun.io/lets-learn-algorithms] 0/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms/series.
+<- [https://www.calhoun.io/lets-learn-algorithms] 1/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms/about.
+<- [https://www.calhoun.io/lets-learn-algorithms] 2/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms/courses.
+<- [https://www.calhoun.io/lets-learn-algorithms] 3/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms-an-intro-to-bubble-sort/.
+<- [https://www.calhoun.io/lets-learn-algorithms] 4/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms-implementing-bubble-sort/.
+<- [https://www.calhoun.io/lets-learn-algorithms] 5/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms-reverse-sorting-a-list-of-numbers-with-bubble-sort/.
+<- [https://www.calhoun.io/lets-learn-algorithms] 6/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms-sorting-a-list-of-strings-in-alphabetical-order-with-bubble-sort/.
+<- [https://www.calhoun.io/lets-learn-algorithms] 7/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms-an-intro-to-binary-search/.
+<- [https://www.calhoun.io/lets-learn-algorithms] 8/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms-implementing-binary-search/.
+<- [https://www.calhoun.io/lets-learn-algorithms] 9/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms-queues-in-go/.
+<- [https://www.calhoun.io/lets-learn-algorithms] 10/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms-graph-theory-what-is-a-graph/.
+<- [https://www.calhoun.io/lets-learn-algorithms] 11/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms-graph-theory-trees-are-also-graphs/.
+<- [https://www.calhoun.io/lets-learn-algorithms] 12/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms-graph-theory-representing-a-binary-tree-in-go-code/.
+<- Done with https://www.calhoun.io/about/courses, depth 0.
+<- [https://www.calhoun.io/about] 4/8 Waiting for child https://www.calhoun.io/about/series.
+<- Done with https://www.calhoun.io/lets-learn-algorithms/series, depth 0.
+<- [https://www.calhoun.io/lets-learn-algorithms] 13/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms/all/.
+<- Done with https://www.calhoun.io/about/all/, depth 0.
+<- [https://www.calhoun.io/about] 5/8 Waiting for child https://www.calhoun.io/about/tags/.
+<- Done with https://www.calhoun.io/lets-learn-algorithms/all/, depth 0.
+<- [https://www.calhoun.io/lets-learn-algorithms] 14/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms/series.
+<- Done with https://www.calhoun.io/about/series, depth 0.
+<- [https://www.calhoun.io/about] 6/8 Waiting for child https://www.calhoun.io/about/about.
+<- Done with https://www.calhoun.io/lets-learn-algorithms-graph-theory-trees-are-also-graphs/, depth 0.
+<- [https://www.calhoun.io/lets-learn-algorithms] 15/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms/tags/.
+<- Done with https://www.calhoun.io/about/tags/, depth 0.
+<- [https://www.calhoun.io/about] 7/8 Waiting for child https://www.calhoun.io/about/courses.
+<- Done with https://www.calhoun.io/about/about, depth 0.
+<- Done with https://www.calhoun.io/about
+<- [https://www.calhoun.io] 9/27 Waiting for child https://www.calhoun.io/page/2/.
+<- Done with https://www.calhoun.io/lets-learn-algorithms/tags/, depth 0.
+<- [https://www.calhoun.io/lets-learn-algorithms] 16/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms/about.
+<- Done with https://www.calhoun.io/lets-learn-algorithms/about, depth 0.
+<- [https://www.calhoun.io/lets-learn-algorithms] 17/18 Waiting for child https://www.calhoun.io/lets-learn-algorithms/courses.
+<- Done with https://www.calhoun.io/lets-learn-algorithms/courses, depth 0.
+<- Done with https://www.calhoun.io/lets-learn-algorithms
+<- [https://www.calhoun.io] 10/27 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go/.
+-> Crawling child 0/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//series.
+-> Crawling child 1/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//about.
+-> Crawling child 2/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//courses.
+-> Crawling child 3/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//gothamgo2018.pdf.
+-> Crawling child 4/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//gotham-go-2018/.
+-> Crawling child 5/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//intro-to-templates/.
+-> Crawling child 6/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//intro-to-templates-p4-v-in-mvc/.
+-> Crawling child 7/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//all/.
+-> Crawling child 8/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//series.
+-> Crawling child 9/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//tags/.
+-> Crawling child 10/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//about.
+-> Crawling child 11/12 of https://www.calhoun.io/building-gophercises/ : https://www.calhoun.io/building-gophercises//courses.
+<- [https://www.calhoun.io/building-gophercises/] 0/12 Waiting for child https://www.calhoun.io/building-gophercises//series.
+<- Done with https://www.calhoun.io/building-gophercises//courses, depth 0.
+<- [https://www.calhoun.io/building-gophercises/] 1/12 Waiting for child https://www.calhoun.io/building-gophercises//about.
+-> Crawling child 0/8 of https://www.calhoun.io/series : https://www.calhoun.io/series/series.
+-> Crawling child 1/8 of https://www.calhoun.io/series : https://www.calhoun.io/series/about.
+-> Crawling child 2/8 of https://www.calhoun.io/series : https://www.calhoun.io/series/courses.
+-> Crawling child 3/8 of https://www.calhoun.io/series : https://www.calhoun.io/series/all/.
+-> Crawling child 4/8 of https://www.calhoun.io/series : https://www.calhoun.io/series/series.
+-> Crawling child 5/8 of https://www.calhoun.io/series : https://www.calhoun.io/series/tags/.
+-> Crawling child 6/8 of https://www.calhoun.io/series : https://www.calhoun.io/series/about.
+-> Crawling child 7/8 of https://www.calhoun.io/series : https://www.calhoun.io/series/courses.
+<- [https://www.calhoun.io/series] 0/8 Waiting for child https://www.calhoun.io/series/series.
+<- Done with https://www.calhoun.io/series/courses, depth 0.
+<- [https://www.calhoun.io/series] 1/8 Waiting for child https://www.calhoun.io/series/about.
+<- Done with https://www.calhoun.io/building-gophercises//series, depth 0.
+<- [https://www.calhoun.io/building-gophercises/] 2/12 Waiting for child https://www.calhoun.io/building-gophercises//courses.
+<- Done with https://www.calhoun.io/building-gophercises//about, depth 0.
+<- [https://www.calhoun.io/building-gophercises/] 3/12 Waiting for child https://www.calhoun.io/building-gophercises//gothamgo2018.pdf.
+<- Done with https://www.calhoun.io/building-gophercises//courses, depth 0.
+<- [https://www.calhoun.io/building-gophercises/] 4/12 Waiting for child https://www.calhoun.io/building-gophercises//gotham-go-2018/.
+<- Done with https://www.calhoun.io/building-gophercises//gothamgo2018.pdf, depth 0.
+<- [https://www.calhoun.io/building-gophercises/] 5/12 Waiting for child https://www.calhoun.io/building-gophercises//intro-to-templates/.
+<- Done with https://www.calhoun.io/building-gophercises//gotham-go-2018/, depth 0.
+<- [https://www.calhoun.io/building-gophercises/] 6/12 Waiting for child https://www.calhoun.io/building-gophercises//intro-to-templates-p4-v-in-mvc/.
+<- Done with https://www.calhoun.io/building-gophercises//intro-to-templates/, depth 0.
+<- [https://www.calhoun.io/building-gophercises/] 7/12 Waiting for child https://www.calhoun.io/building-gophercises//all/.
+<- Done with https://www.calhoun.io/building-gophercises//intro-to-templates-p4-v-in-mvc/, depth 0.
+<- [https://www.calhoun.io/building-gophercises/] 8/12 Waiting for child https://www.calhoun.io/building-gophercises//series.
+<- Done with https://www.calhoun.io/building-gophercises//all/, depth 0.
+<- [https://www.calhoun.io/building-gophercises/] 9/12 Waiting for child https://www.calhoun.io/building-gophercises//tags/.
+<- Done with https://www.calhoun.io/building-gophercises//series, depth 0.
+<- [https://www.calhoun.io/building-gophercises/] 10/12 Waiting for child https://www.calhoun.io/building-gophercises//about.
+<- Done with https://www.calhoun.io/building-gophercises//tags/, depth 0.
+<- [https://www.calhoun.io/building-gophercises/] 11/12 Waiting for child https://www.calhoun.io/building-gophercises//courses.
+<- Done with https://www.calhoun.io/building-gophercises//about, depth 0.
+<- Done with https://www.calhoun.io/building-gophercises/
+<- [https://www.calhoun.io] 11/27 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions/.
+<- Done with https://www.calhoun.io/series/series, depth 0.
+<- [https://www.calhoun.io/series] 2/8 Waiting for child https://www.calhoun.io/series/courses.
+<- Done with https://www.calhoun.io/series/about, depth 0.
+<- [https://www.calhoun.io/series] 3/8 Waiting for child https://www.calhoun.io/series/all/.
+<- Done with https://www.calhoun.io/series/courses, depth 0.
+<- [https://www.calhoun.io/series] 4/8 Waiting for child https://www.calhoun.io/series/series.
+<- Done with https://www.calhoun.io/series/all/, depth 0.
+<- [https://www.calhoun.io/series] 5/8 Waiting for child https://www.calhoun.io/series/tags/.
+<- Done with https://www.calhoun.io/series/series, depth 0.
+<- [https://www.calhoun.io/series] 6/8 Waiting for child https://www.calhoun.io/series/about.
+<- Done with https://www.calhoun.io/series/tags/, depth 0.
+<- [https://www.calhoun.io/series] 7/8 Waiting for child https://www.calhoun.io/series/courses.
+<- Done with https://www.calhoun.io/series/about, depth 0.
+<- Done with https://www.calhoun.io/series
+<- [https://www.calhoun.io] 12/27 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/.
+-> Crawling child 0/11 of https://www.calhoun.io/testing-is-not-for-beginners/ : https://www.calhoun.io/testing-is-not-for-beginners//series.
+-> Crawling child 1/11 of https://www.calhoun.io/testing-is-not-for-beginners/ : https://www.calhoun.io/testing-is-not-for-beginners//about.
+-> Crawling child 0/11 of https://www.calhoun.io/when-nil-isnt-equal-to-nil/ : https://www.calhoun.io/when-nil-isnt-equal-to-nil//series.
+-> Crawling child 1/11 of https://www.calhoun.io/when-nil-isnt-equal-to-nil/ : https://www.calhoun.io/when-nil-isnt-equal-to-nil//about.
+-> Crawling child 2/11 of https://www.calhoun.io/when-nil-isnt-equal-to-nil/ : https://www.calhoun.io/when-nil-isnt-equal-to-nil//courses.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil//series, depth 0.
+-> Crawling child 3/11 of https://www.calhoun.io/when-nil-isnt-equal-to-nil/ : https://www.calhoun.io/when-nil-isnt-equal-to-nil//testing-is-not-for-beginners/.
+-> Crawling child 4/11 of https://www.calhoun.io/when-nil-isnt-equal-to-nil/ : https://www.calhoun.io/when-nil-isnt-equal-to-nil//concatenating-and-building-strings-in-go/.
+-> Crawling child 5/11 of https://www.calhoun.io/when-nil-isnt-equal-to-nil/ : https://www.calhoun.io/when-nil-isnt-equal-to-nil//one-liner-if-statements-with-errors/.
+-> Crawling child 6/11 of https://www.calhoun.io/when-nil-isnt-equal-to-nil/ : https://www.calhoun.io/when-nil-isnt-equal-to-nil//all/.
+-> Crawling child 2/11 of https://www.calhoun.io/testing-is-not-for-beginners/ : https://www.calhoun.io/testing-is-not-for-beginners//courses.
+-> Crawling child 3/11 of https://www.calhoun.io/testing-is-not-for-beginners/ : https://www.calhoun.io/testing-is-not-for-beginners//tdd-is-not-for-me/.
+-> Crawling child 4/11 of https://www.calhoun.io/testing-is-not-for-beginners/ : https://www.calhoun.io/testing-is-not-for-beginners//when-nil-isnt-equal-to-nil/.
+-> Crawling child 5/11 of https://www.calhoun.io/testing-is-not-for-beginners/ : https://www.calhoun.io/testing-is-not-for-beginners//concatenating-and-building-strings-in-go/.
+-> Crawling child 6/11 of https://www.calhoun.io/testing-is-not-for-beginners/ : https://www.calhoun.io/testing-is-not-for-beginners//all/.
+-> Crawling child 7/11 of https://www.calhoun.io/testing-is-not-for-beginners/ : https://www.calhoun.io/testing-is-not-for-beginners//series.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners//tdd-is-not-for-me/, depth 0.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners//about, depth 0.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil//testing-is-not-for-beginners/, depth 0.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil//courses, depth 0.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil//about, depth 0.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners//courses, depth 0.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil//all/, depth 0.
+-> Crawling child 7/11 of https://www.calhoun.io/when-nil-isnt-equal-to-nil/ : https://www.calhoun.io/when-nil-isnt-equal-to-nil//series.
+-> Crawling child 8/11 of https://www.calhoun.io/when-nil-isnt-equal-to-nil/ : https://www.calhoun.io/when-nil-isnt-equal-to-nil//tags/.
+-> Crawling child 9/11 of https://www.calhoun.io/when-nil-isnt-equal-to-nil/ : https://www.calhoun.io/when-nil-isnt-equal-to-nil//about.
+-> Crawling child 10/11 of https://www.calhoun.io/when-nil-isnt-equal-to-nil/ : https://www.calhoun.io/when-nil-isnt-equal-to-nil//courses.
+<- [https://www.calhoun.io/when-nil-isnt-equal-to-nil/] 0/11 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil//series.
+<- [https://www.calhoun.io/when-nil-isnt-equal-to-nil/] 1/11 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil//about.
+<- [https://www.calhoun.io/when-nil-isnt-equal-to-nil/] 2/11 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil//courses.
+<- [https://www.calhoun.io/when-nil-isnt-equal-to-nil/] 3/11 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil//testing-is-not-for-beginners/.
+<- [https://www.calhoun.io/when-nil-isnt-equal-to-nil/] 4/11 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil//concatenating-and-building-strings-in-go/.
+<- [https://www.calhoun.io/when-nil-isnt-equal-to-nil/] 5/11 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil//one-liner-if-statements-with-errors/.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil//series, depth 0.
+<- [https://www.calhoun.io/when-nil-isnt-equal-to-nil/] 6/11 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil//all/.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil//tags/, depth 0.
+<- [https://www.calhoun.io/when-nil-isnt-equal-to-nil/] 7/11 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil//series.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil//about, depth 0.
+<- [https://www.calhoun.io/when-nil-isnt-equal-to-nil/] 8/11 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil//tags/.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil//courses, depth 0.
+<- [https://www.calhoun.io/when-nil-isnt-equal-to-nil/] 9/11 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil//about.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners//concatenating-and-building-strings-in-go/, depth 0.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners//when-nil-isnt-equal-to-nil/, depth 0.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil//concatenating-and-building-strings-in-go/, depth 0.
+<- [https://www.calhoun.io/when-nil-isnt-equal-to-nil/] 10/11 Waiting for child https://www.calhoun.io/when-nil-isnt-equal-to-nil//courses.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners//series, depth 0.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners//series, depth 0.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners//all/, depth 0.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil//one-liner-if-statements-with-errors/, depth 0.
+<- Done with https://www.calhoun.io/when-nil-isnt-equal-to-nil/
+<- [https://www.calhoun.io] 13/27 Waiting for child https://www.calhoun.io/creating-random-strings-in-go/.
+-> Crawling child 8/11 of https://www.calhoun.io/testing-is-not-for-beginners/ : https://www.calhoun.io/testing-is-not-for-beginners//tags/.
+-> Crawling child 9/11 of https://www.calhoun.io/testing-is-not-for-beginners/ : https://www.calhoun.io/testing-is-not-for-beginners//about.
+-> Crawling child 10/11 of https://www.calhoun.io/testing-is-not-for-beginners/ : https://www.calhoun.io/testing-is-not-for-beginners//courses.
+<- [https://www.calhoun.io/testing-is-not-for-beginners/] 0/11 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners//series.
+<- [https://www.calhoun.io/testing-is-not-for-beginners/] 1/11 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners//about.
+<- [https://www.calhoun.io/testing-is-not-for-beginners/] 2/11 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners//courses.
+<- [https://www.calhoun.io/testing-is-not-for-beginners/] 3/11 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners//tdd-is-not-for-me/.
+<- [https://www.calhoun.io/testing-is-not-for-beginners/] 4/11 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners//when-nil-isnt-equal-to-nil/.
+<- [https://www.calhoun.io/testing-is-not-for-beginners/] 5/11 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners//concatenating-and-building-strings-in-go/.
+<- [https://www.calhoun.io/testing-is-not-for-beginners/] 6/11 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners//all/.
+<- [https://www.calhoun.io/testing-is-not-for-beginners/] 7/11 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners//series.
+<- [https://www.calhoun.io/testing-is-not-for-beginners/] 8/11 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners//tags/.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners//courses, depth 0.
+<- [https://www.calhoun.io/testing-is-not-for-beginners/] 9/11 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners//about.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners//about, depth 0.
+<- [https://www.calhoun.io/testing-is-not-for-beginners/] 10/11 Waiting for child https://www.calhoun.io/testing-is-not-for-beginners//courses.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners//tags/, depth 0.
+<- Done with https://www.calhoun.io/testing-is-not-for-beginners/
+<- [https://www.calhoun.io] 14/27 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/.
+-> Crawling child 0/8 of https://www.calhoun.io/all/ : https://www.calhoun.io/all//series.
+-> Crawling child 1/8 of https://www.calhoun.io/all/ : https://www.calhoun.io/all//about.
+-> Crawling child 2/8 of https://www.calhoun.io/all/ : https://www.calhoun.io/all//courses.
+-> Crawling child 3/8 of https://www.calhoun.io/all/ : https://www.calhoun.io/all//all/.
+-> Crawling child 4/8 of https://www.calhoun.io/all/ : https://www.calhoun.io/all//series.
+-> Crawling child 5/8 of https://www.calhoun.io/all/ : https://www.calhoun.io/all//tags/.
+-> Crawling child 6/8 of https://www.calhoun.io/all/ : https://www.calhoun.io/all//about.
+-> Crawling child 7/8 of https://www.calhoun.io/all/ : https://www.calhoun.io/all//courses.
+<- [https://www.calhoun.io/all/] 0/8 Waiting for child https://www.calhoun.io/all//series.
+<- Done with https://www.calhoun.io/all//courses, depth 0.
+<- [https://www.calhoun.io/all/] 1/8 Waiting for child https://www.calhoun.io/all//about.
+<- Done with https://www.calhoun.io/all//series, depth 0.
+<- [https://www.calhoun.io/all/] 2/8 Waiting for child https://www.calhoun.io/all//courses.
+<- Done with https://www.calhoun.io/all//about, depth 0.
+<- [https://www.calhoun.io/all/] 3/8 Waiting for child https://www.calhoun.io/all//all/.
+<- Done with https://www.calhoun.io/all//courses, depth 0.
+<- [https://www.calhoun.io/all/] 4/8 Waiting for child https://www.calhoun.io/all//series.
+<- Done with https://www.calhoun.io/all//all/, depth 0.
+<- [https://www.calhoun.io/all/] 5/8 Waiting for child https://www.calhoun.io/all//tags/.
+<- Done with https://www.calhoun.io/all//series, depth 0.
+<- [https://www.calhoun.io/all/] 6/8 Waiting for child https://www.calhoun.io/all//about.
+<- Done with https://www.calhoun.io/all//tags/, depth 0.
+<- [https://www.calhoun.io/all/] 7/8 Waiting for child https://www.calhoun.io/all//courses.
+<- Done with https://www.calhoun.io/all//about, depth 0.
+<- Done with https://www.calhoun.io/all/
+<- [https://www.calhoun.io] 15/27 Waiting for child https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/.
+-> Crawling child 0/8 of https://www.calhoun.io/using-postgresql-with-go : https://www.calhoun.io/using-postgresql-with-go/series.
+-> Crawling child 1/8 of https://www.calhoun.io/using-postgresql-with-go : https://www.calhoun.io/using-postgresql-with-go/about.
+-> Crawling child 2/8 of https://www.calhoun.io/using-postgresql-with-go : https://www.calhoun.io/using-postgresql-with-go/courses.
+-> Crawling child 3/8 of https://www.calhoun.io/using-postgresql-with-go : https://www.calhoun.io/using-postgresql-with-go/all/.
+-> Crawling child 4/8 of https://www.calhoun.io/using-postgresql-with-go : https://www.calhoun.io/using-postgresql-with-go/series.
+-> Crawling child 5/8 of https://www.calhoun.io/using-postgresql-with-go : https://www.calhoun.io/using-postgresql-with-go/tags/.
+-> Crawling child 6/8 of https://www.calhoun.io/using-postgresql-with-go : https://www.calhoun.io/using-postgresql-with-go/about.
+<- Done with https://www.calhoun.io/using-postgresql-with-go/about, depth 0.
+<- Done with https://www.calhoun.io/using-postgresql-with-go/all/, depth 0.
+<- Done with https://www.calhoun.io/using-postgresql-with-go/courses, depth 0.
+<- Done with https://www.calhoun.io/using-postgresql-with-go/series, depth 0.
+<- Done with https://www.calhoun.io/using-postgresql-with-go/tags/, depth 0.
+-> Crawling child 7/8 of https://www.calhoun.io/using-postgresql-with-go : https://www.calhoun.io/using-postgresql-with-go/courses.
+<- [https://www.calhoun.io/using-postgresql-with-go] 0/8 Waiting for child https://www.calhoun.io/using-postgresql-with-go/series.
+<- [https://www.calhoun.io/using-postgresql-with-go] 1/8 Waiting for child https://www.calhoun.io/using-postgresql-with-go/about.
+<- [https://www.calhoun.io/using-postgresql-with-go] 2/8 Waiting for child https://www.calhoun.io/using-postgresql-with-go/courses.
+<- [https://www.calhoun.io/using-postgresql-with-go] 3/8 Waiting for child https://www.calhoun.io/using-postgresql-with-go/all/.
+<- [https://www.calhoun.io/using-postgresql-with-go] 4/8 Waiting for child https://www.calhoun.io/using-postgresql-with-go/series.
+<- [https://www.calhoun.io/using-postgresql-with-go] 5/8 Waiting for child https://www.calhoun.io/using-postgresql-with-go/tags/.
+<- Done with https://www.calhoun.io/using-postgresql-with-go/series, depth 0.
+<- [https://www.calhoun.io/using-postgresql-with-go] 6/8 Waiting for child https://www.calhoun.io/using-postgresql-with-go/about.
+<- Done with https://www.calhoun.io/using-postgresql-with-go/about, depth 0.
+<- [https://www.calhoun.io/using-postgresql-with-go] 7/8 Waiting for child https://www.calhoun.io/using-postgresql-with-go/courses.
+<- Done with https://www.calhoun.io/using-postgresql-with-go/courses, depth 0.
+<- Done with https://www.calhoun.io/using-postgresql-with-go
+<- [https://www.calhoun.io] 16/27 Waiting for child https://www.calhoun.io/using-postgresql-with-go.
+-> Crawling child 0/9 of https://www.calhoun.io/interfaces-define-requirements/ : https://www.calhoun.io/interfaces-define-requirements//series.
+-> Crawling child 1/9 of https://www.calhoun.io/interfaces-define-requirements/ : https://www.calhoun.io/interfaces-define-requirements//about.
+-> Crawling child 2/9 of https://www.calhoun.io/interfaces-define-requirements/ : https://www.calhoun.io/interfaces-define-requirements//courses.
+-> Crawling child 3/9 of https://www.calhoun.io/interfaces-define-requirements/ : https://www.calhoun.io/interfaces-define-requirements//how-do-interfaces-work-in-go/.
+-> Crawling child 4/9 of https://www.calhoun.io/interfaces-define-requirements/ : https://www.calhoun.io/interfaces-define-requirements//all/.
+-> Crawling child 5/9 of https://www.calhoun.io/interfaces-define-requirements/ : https://www.calhoun.io/interfaces-define-requirements//series.
+-> Crawling child 6/9 of https://www.calhoun.io/interfaces-define-requirements/ : https://www.calhoun.io/interfaces-define-requirements//tags/.
+-> Crawling child 7/9 of https://www.calhoun.io/interfaces-define-requirements/ : https://www.calhoun.io/interfaces-define-requirements//about.
+-> Crawling child 8/9 of https://www.calhoun.io/interfaces-define-requirements/ : https://www.calhoun.io/interfaces-define-requirements//courses.
+<- [https://www.calhoun.io/interfaces-define-requirements/] 0/9 Waiting for child https://www.calhoun.io/interfaces-define-requirements//series.
+<- Done with https://www.calhoun.io/interfaces-define-requirements//courses, depth 0.
+<- [https://www.calhoun.io/interfaces-define-requirements/] 1/9 Waiting for child https://www.calhoun.io/interfaces-define-requirements//about.
+<- Done with https://www.calhoun.io/interfaces-define-requirements//series, depth 0.
+<- [https://www.calhoun.io/interfaces-define-requirements/] 2/9 Waiting for child https://www.calhoun.io/interfaces-define-requirements//courses.
+<- Done with https://www.calhoun.io/interfaces-define-requirements//about, depth 0.
+<- [https://www.calhoun.io/interfaces-define-requirements/] 3/9 Waiting for child https://www.calhoun.io/interfaces-define-requirements//how-do-interfaces-work-in-go/.
+<- Done with https://www.calhoun.io/interfaces-define-requirements//courses, depth 0.
+<- [https://www.calhoun.io/interfaces-define-requirements/] 4/9 Waiting for child https://www.calhoun.io/interfaces-define-requirements//all/.
+<- Done with https://www.calhoun.io/interfaces-define-requirements//how-do-interfaces-work-in-go/, depth 0.
+<- [https://www.calhoun.io/interfaces-define-requirements/] 5/9 Waiting for child https://www.calhoun.io/interfaces-define-requirements//series.
+<- Done with https://www.calhoun.io/interfaces-define-requirements//all/, depth 0.
+<- [https://www.calhoun.io/interfaces-define-requirements/] 6/9 Waiting for child https://www.calhoun.io/interfaces-define-requirements//tags/.
+<- Done with https://www.calhoun.io/interfaces-define-requirements//series, depth 0.
+<- [https://www.calhoun.io/interfaces-define-requirements/] 7/9 Waiting for child https://www.calhoun.io/interfaces-define-requirements//about.
+<- Done with https://www.calhoun.io/interfaces-define-requirements//tags/, depth 0.
+<- [https://www.calhoun.io/interfaces-define-requirements/] 8/9 Waiting for child https://www.calhoun.io/interfaces-define-requirements//courses.
+<- Done with https://www.calhoun.io/interfaces-define-requirements//about, depth 0.
+<- Done with https://www.calhoun.io/interfaces-define-requirements/
+<- [https://www.calhoun.io] 17/27 Waiting for child https://www.calhoun.io/using-postgresql-with-go.
+-> Crawling child 0/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//series.
+-> Crawling child 1/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//about.
+-> Crawling child 2/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//courses.
+-> Crawling child 3/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//page/3/.
+-> Crawling child 4/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//using-postgresql-with-go.
+-> Crawling child 5/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//using-postgresql-with-go.
+-> Crawling child 6/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//using-postgresql-with-go.
+-> Crawling child 7/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//lets-learn-algorithms.
+-> Crawling child 8/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//lets-learn-algorithms.
+-> Crawling child 9/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//lets-learn-algorithms.
+-> Crawling child 10/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//all/.
+-> Crawling child 11/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//series.
+-> Crawling child 12/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//tags/.
+-> Crawling child 13/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//about.
+-> Crawling child 14/15 of https://www.calhoun.io/page/2/ : https://www.calhoun.io/page/2//courses.
+<- [https://www.calhoun.io/page/2/] 0/15 Waiting for child https://www.calhoun.io/page/2//series.
+<- Done with https://www.calhoun.io/page/2//courses, depth 0.
+<- [https://www.calhoun.io/page/2/] 1/15 Waiting for child https://www.calhoun.io/page/2//about.
+<- Done with https://www.calhoun.io/page/2//series, depth 0.
+<- [https://www.calhoun.io/page/2/] 2/15 Waiting for child https://www.calhoun.io/page/2//courses.
+<- Done with https://www.calhoun.io/page/2//about, depth 0.
+<- [https://www.calhoun.io/page/2/] 3/15 Waiting for child https://www.calhoun.io/page/2//page/3/.
+<- Done with https://www.calhoun.io/page/2//courses, depth 0.
+<- [https://www.calhoun.io/page/2/] 4/15 Waiting for child https://www.calhoun.io/page/2//using-postgresql-with-go.
+<- Done with https://www.calhoun.io/page/2//page/3/, depth 0.
+<- [https://www.calhoun.io/page/2/] 5/15 Waiting for child https://www.calhoun.io/page/2//using-postgresql-with-go.
+<- Done with https://www.calhoun.io/page/2//using-postgresql-with-go, depth 0.
+<- [https://www.calhoun.io/page/2/] 6/15 Waiting for child https://www.calhoun.io/page/2//using-postgresql-with-go.
+<- Done with https://www.calhoun.io/page/2//using-postgresql-with-go, depth 0.
+<- [https://www.calhoun.io/page/2/] 7/15 Waiting for child https://www.calhoun.io/page/2//lets-learn-algorithms.
+<- Done with https://www.calhoun.io/page/2//using-postgresql-with-go, depth 0.
+<- [https://www.calhoun.io/page/2/] 8/15 Waiting for child https://www.calhoun.io/page/2//lets-learn-algorithms.
+<- Done with https://www.calhoun.io/page/2//lets-learn-algorithms, depth 0.
+<- [https://www.calhoun.io/page/2/] 9/15 Waiting for child https://www.calhoun.io/page/2//lets-learn-algorithms.
+<- Done with https://www.calhoun.io/page/2//lets-learn-algorithms, depth 0.
+<- [https://www.calhoun.io/page/2/] 10/15 Waiting for child https://www.calhoun.io/page/2//all/.
+<- Done with https://www.calhoun.io/page/2//lets-learn-algorithms, depth 0.
+<- [https://www.calhoun.io/page/2/] 11/15 Waiting for child https://www.calhoun.io/page/2//series.
+<- Done with https://www.calhoun.io/page/2//all/, depth 0.
+<- [https://www.calhoun.io/page/2/] 12/15 Waiting for child https://www.calhoun.io/page/2//tags/.
+<- Done with https://www.calhoun.io/page/2//series, depth 0.
+<- [https://www.calhoun.io/page/2/] 13/15 Waiting for child https://www.calhoun.io/page/2//about.
+<- Done with https://www.calhoun.io/page/2//tags/, depth 0.
+<- [https://www.calhoun.io/page/2/] 14/15 Waiting for child https://www.calhoun.io/page/2//courses.
+<- Done with https://www.calhoun.io/page/2//about, depth 0.
+<- Done with https://www.calhoun.io/page/2/
+<- [https://www.calhoun.io] 18/27 Waiting for child https://www.calhoun.io/using-postgresql-with-go.
+-> Crawling child 0/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//series.
+-> Crawling child 1/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//about.
+-> Crawling child 2/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//courses.
+-> Crawling child 3/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//creating-random-strings-in-go/.
+-> Crawling child 4/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//testing-is-not-for-beginners/.
+-> Crawling child 5/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//when-nil-isnt-equal-to-nil/.
+-> Crawling child 6/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//concatenating-and-building-strings-in-go/.
+-> Crawling child 7/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//all/.
+-> Crawling child 8/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//series.
+-> Crawling child 9/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//tags/.
+-> Crawling child 10/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//about.
+-> Crawling child 11/12 of https://www.calhoun.io/6-tips-for-using-strings-in-go/ : https://www.calhoun.io/6-tips-for-using-strings-in-go//courses.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 0/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//series.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//courses, depth 0.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 1/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//about.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//series, depth 0.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 2/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//courses.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//about, depth 0.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 3/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//creating-random-strings-in-go/.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//courses, depth 0.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 4/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//testing-is-not-for-beginners/.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//creating-random-strings-in-go/, depth 0.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 5/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//when-nil-isnt-equal-to-nil/.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//testing-is-not-for-beginners/, depth 0.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 6/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//concatenating-and-building-strings-in-go/.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//when-nil-isnt-equal-to-nil/, depth 0.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 7/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//all/.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//concatenating-and-building-strings-in-go/, depth 0.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 8/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//series.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//all/, depth 0.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 9/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//tags/.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//series, depth 0.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 10/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//about.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//tags/, depth 0.
+<- [https://www.calhoun.io/6-tips-for-using-strings-in-go/] 11/12 Waiting for child https://www.calhoun.io/6-tips-for-using-strings-in-go//courses.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go//about, depth 0.
+<- Done with https://www.calhoun.io/6-tips-for-using-strings-in-go/
+<- [https://www.calhoun.io] 19/27 Waiting for child https://www.calhoun.io/lets-learn-algorithms.
+-> Crawling child 0/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//series.
+-> Crawling child 1/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//about.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//series, depth 0.
+-> Crawling child 2/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//courses.
+-> Crawling child 3/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p2-actions/.
+-> Crawling child 4/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p4-v-in-mvc/.
+-> Crawling child 5/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//what-is-a-closure/.
+-> Crawling child 6/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates/.
+-> Crawling child 7/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p2-actions/.
+-> Crawling child 8/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p4-v-in-mvc/.
+-> Crawling child 9/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates/.
+-> Crawling child 10/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//all/.
+-> Crawling child 11/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//series.
+-> Crawling child 12/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//tags/.
+-> Crawling child 13/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//about.
+-> Crawling child 14/15 of https://www.calhoun.io/intro-to-templates-p3-functions/ : https://www.calhoun.io/intro-to-templates-p3-functions//courses.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 0/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//series.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 1/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//about.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//about, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 2/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//courses.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//courses, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 3/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p2-actions/.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p2-actions/, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 4/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p4-v-in-mvc/.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p4-v-in-mvc/, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 5/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//what-is-a-closure/.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//what-is-a-closure/, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 6/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates/.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates/, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 7/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p2-actions/.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p2-actions/, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 8/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p4-v-in-mvc/.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates-p4-v-in-mvc/, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 9/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates/.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//intro-to-templates/, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 10/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//all/.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//all/, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 11/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//series.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//series, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 12/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//tags/.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//tags/, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 13/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//about.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//about, depth 0.
+<- [https://www.calhoun.io/intro-to-templates-p3-functions/] 14/15 Waiting for child https://www.calhoun.io/intro-to-templates-p3-functions//courses.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions//courses, depth 0.
+<- Done with https://www.calhoun.io/intro-to-templates-p3-functions/
+<- [https://www.calhoun.io] 20/27 Waiting for child https://www.calhoun.io/lets-learn-algorithms.
+-> Crawling child 0/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//series.
+-> Crawling child 1/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//about.
+-> Crawling child 2/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//courses.
+-> Crawling child 3/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//connecting-to-a-postgresql-database-with-gos-database-sql-package/.
+-> Crawling child 4/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-postgresql-records-using-gos-sql-package/.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//courses, depth 0.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//about, depth 0.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//series, depth 0.
+-> Crawling child 5/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/.
+-> Crawling child 6/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//connecting-to-a-postgresql-database-with-gos-database-sql-package/.
+-> Crawling child 7/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-postgresql-records-using-gos-sql-package/.
+-> Crawling child 8/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/.
+-> Crawling child 9/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//all/.
+-> Crawling child 10/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//series.
+-> Crawling child 11/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//tags/.
+-> Crawling child 12/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//about.
+-> Crawling child 13/14 of https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//courses.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 0/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//series.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 1/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//about.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//courses, depth 0.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//all/, depth 0.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/, depth 0.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//connecting-to-a-postgresql-database-with-gos-database-sql-package/, depth 0.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//series, depth 0.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//connecting-to-a-postgresql-database-with-gos-database-sql-package/, depth 0.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//tags/, depth 0.
+-> Crawling child 0/11 of https://www.calhoun.io/creating-random-strings-in-go/ : https://www.calhoun.io/creating-random-strings-in-go//series.
+-> Crawling child 1/11 of https://www.calhoun.io/creating-random-strings-in-go/ : https://www.calhoun.io/creating-random-strings-in-go//about.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-postgresql-records-using-gos-sql-package/, depth 0.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 2/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//courses.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 3/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//connecting-to-a-postgresql-database-with-gos-database-sql-package/.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 4/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-postgresql-records-using-gos-sql-package/.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 5/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 6/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//connecting-to-a-postgresql-database-with-gos-database-sql-package/.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 7/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-postgresql-records-using-gos-sql-package/.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go//about, depth 0.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-postgresql-records-using-gos-sql-package/, depth 0.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/, depth 0.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//about, depth 0.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go//series, depth 0.
+-> Crawling child 2/11 of https://www.calhoun.io/creating-random-strings-in-go/ : https://www.calhoun.io/creating-random-strings-in-go//courses.
+-> Crawling child 3/11 of https://www.calhoun.io/creating-random-strings-in-go/ : https://www.calhoun.io/creating-random-strings-in-go//concatenating-and-building-strings-in-go/.
+-> Crawling child 4/11 of https://www.calhoun.io/creating-random-strings-in-go/ : https://www.calhoun.io/creating-random-strings-in-go//lets-learn-algorithms-binary-searching-for-case-insensitive-strings/.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go//courses, depth 0.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go//concatenating-and-building-strings-in-go/, depth 0.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 8/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 9/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//all/.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 10/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//series.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 11/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//tags/.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 12/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//about.
+<- [https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/] 13/14 Waiting for child https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package//courses.
+<- Done with https://www.calhoun.io/inserting-records-into-a-postgresql-database-with-gos-database-sql-package/
+<- [https://www.calhoun.io] 21/27 Waiting for child https://www.calhoun.io/lets-learn-algorithms.
+-> Crawling child 5/11 of https://www.calhoun.io/creating-random-strings-in-go/ : https://www.calhoun.io/creating-random-strings-in-go//6-tips-for-using-strings-in-go/.
+-> Crawling child 6/11 of https://www.calhoun.io/creating-random-strings-in-go/ : https://www.calhoun.io/creating-random-strings-in-go//all/.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go//6-tips-for-using-strings-in-go/, depth 0.
+-> Crawling child 7/11 of https://www.calhoun.io/creating-random-strings-in-go/ : https://www.calhoun.io/creating-random-strings-in-go//series.
+-> Crawling child 8/11 of https://www.calhoun.io/creating-random-strings-in-go/ : https://www.calhoun.io/creating-random-strings-in-go//tags/.
+-> Crawling child 9/11 of https://www.calhoun.io/creating-random-strings-in-go/ : https://www.calhoun.io/creating-random-strings-in-go//about.
+-> Crawling child 10/11 of https://www.calhoun.io/creating-random-strings-in-go/ : https://www.calhoun.io/creating-random-strings-in-go//courses.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go//all/, depth 0.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go//lets-learn-algorithms-binary-searching-for-case-insensitive-strings/, depth 0.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go//tags/, depth 0.
+<- [https://www.calhoun.io/creating-random-strings-in-go/] 0/11 Waiting for child https://www.calhoun.io/creating-random-strings-in-go//series.
+<- [https://www.calhoun.io/creating-random-strings-in-go/] 1/11 Waiting for child https://www.calhoun.io/creating-random-strings-in-go//about.
+<- [https://www.calhoun.io/creating-random-strings-in-go/] 2/11 Waiting for child https://www.calhoun.io/creating-random-strings-in-go//courses.
+<- [https://www.calhoun.io/creating-random-strings-in-go/] 3/11 Waiting for child https://www.calhoun.io/creating-random-strings-in-go//concatenating-and-building-strings-in-go/.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go//series, depth 0.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go//about, depth 0.
+<- [https://www.calhoun.io/creating-random-strings-in-go/] 4/11 Waiting for child https://www.calhoun.io/creating-random-strings-in-go//lets-learn-algorithms-binary-searching-for-case-insensitive-strings/.
+<- [https://www.calhoun.io/creating-random-strings-in-go/] 5/11 Waiting for child https://www.calhoun.io/creating-random-strings-in-go//6-tips-for-using-strings-in-go/.
+<- [https://www.calhoun.io/creating-random-strings-in-go/] 6/11 Waiting for child https://www.calhoun.io/creating-random-strings-in-go//all/.
+<- [https://www.calhoun.io/creating-random-strings-in-go/] 7/11 Waiting for child https://www.calhoun.io/creating-random-strings-in-go//series.
+<- [https://www.calhoun.io/creating-random-strings-in-go/] 8/11 Waiting for child https://www.calhoun.io/creating-random-strings-in-go//tags/.
+<- [https://www.calhoun.io/creating-random-strings-in-go/] 9/11 Waiting for child https://www.calhoun.io/creating-random-strings-in-go//about.
+<- [https://www.calhoun.io/creating-random-strings-in-go/] 10/11 Waiting for child https://www.calhoun.io/creating-random-strings-in-go//courses.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go//courses, depth 0.
+<- Done with https://www.calhoun.io/creating-random-strings-in-go/
+<- [https://www.calhoun.io] 22/27 Waiting for child https://www.calhoun.io/all/.
+-> Crawling child 0/8 of https://www.calhoun.io/courses : https://www.calhoun.io/courses/series.
+-> Crawling child 1/8 of https://www.calhoun.io/courses : https://www.calhoun.io/courses/about.
+-> Crawling child 2/8 of https://www.calhoun.io/courses : https://www.calhoun.io/courses/courses.
+-> Crawling child 3/8 of https://www.calhoun.io/courses : https://www.calhoun.io/courses/all/.
+-> Crawling child 4/8 of https://www.calhoun.io/courses : https://www.calhoun.io/courses/series.
+-> Crawling child 5/8 of https://www.calhoun.io/courses : https://www.calhoun.io/courses/tags/.
+-> Crawling child 6/8 of https://www.calhoun.io/courses : https://www.calhoun.io/courses/about.
+-> Crawling child 7/8 of https://www.calhoun.io/courses : https://www.calhoun.io/courses/courses.
+<- [https://www.calhoun.io/courses] 0/8 Waiting for child https://www.calhoun.io/courses/series.
+<- Done with https://www.calhoun.io/courses/courses, depth 0.
+<- [https://www.calhoun.io/courses] 1/8 Waiting for child https://www.calhoun.io/courses/about.
+<- Done with https://www.calhoun.io/courses/series, depth 0.
+<- [https://www.calhoun.io/courses] 2/8 Waiting for child https://www.calhoun.io/courses/courses.
+<- Done with https://www.calhoun.io/courses/about, depth 0.
+<- [https://www.calhoun.io/courses] 3/8 Waiting for child https://www.calhoun.io/courses/all/.
+<- Done with https://www.calhoun.io/courses/courses, depth 0.
+<- [https://www.calhoun.io/courses] 4/8 Waiting for child https://www.calhoun.io/courses/series.
+<- Done with https://www.calhoun.io/courses/all/, depth 0.
+<- [https://www.calhoun.io/courses] 5/8 Waiting for child https://www.calhoun.io/courses/tags/.
+<- Done with https://www.calhoun.io/courses/series, depth 0.
+<- [https://www.calhoun.io/courses] 6/8 Waiting for child https://www.calhoun.io/courses/about.
+<- Done with https://www.calhoun.io/courses/tags/, depth 0.
+<- [https://www.calhoun.io/courses] 7/8 Waiting for child https://www.calhoun.io/courses/courses.
+<- Done with https://www.calhoun.io/courses/about, depth 0.
+<- Done with https://www.calhoun.io/courses
+<- [https://www.calhoun.io] 23/27 Waiting for child https://www.calhoun.io/series.
+-> Crawling child 0/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags//series.
+-> Crawling child 1/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags//about.
+-> Crawling child 2/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags//courses.
+-> Crawling child 3/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/algorithms/.
+-> Crawling child 4/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/api/.
+-> Crawling child 5/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/arrays/.
+-> Crawling child 6/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/bcrypt/.
+-> Crawling child 7/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/beginner/.
+-> Crawling child 8/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/binary-serach/.
+-> Crawling child 9/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/bubble-sort/.
+-> Crawling child 10/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/bytes/.
+-> Crawling child 11/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/caddy/.
+-> Crawling child 12/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/capacity/.
+-> Crawling child 13/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/channels/.
+-> Crawling child 14/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/closures/.
+-> Crawling child 15/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/code-design/.
+-> Crawling child 16/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/concurrency/.
+-> Crawling child 17/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/context/.
+-> Crawling child 18/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/cookies/.
+-> Crawling child 19/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/data-structures/.
+-> Crawling child 20/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/databases/.
+-> Crawling child 21/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/dependency-management/.
+-> Crawling child 22/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/dfs/.
+-> Crawling child 23/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/encoding/.
+-> Crawling child 24/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/errors/.
+-> Crawling child 25/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/functional-options/.
+-> Crawling child 26/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/generation/.
+-> Crawling child 27/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/generics/.
+-> Crawling child 28/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/gophercises/.
+-> Crawling child 29/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/goroutines/.
+-> Crawling child 30/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/gotime/.
+-> Crawling child 31/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/graph-theory/.
+-> Crawling child 32/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/hashing/.
+-> Crawling child 33/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/html/.
+-> Crawling child 34/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/interfaces/.
+-> Crawling child 35/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/json/.
+-> Crawling child 36/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/lets-learn-algorithms/.
+-> Crawling child 37/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/macosx/.
+-> Crawling child 38/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/middleware/.
+-> Crawling child 39/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/mvc/.
+-> Crawling child 40/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/named-return-variables/.
+-> Crawling child 41/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/net/http/.
+-> Crawling child 42/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/nil/.
+-> Crawling child 43/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/orms/.
+-> Crawling child 44/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/panic/recover/.
+-> Crawling child 45/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/podcasts/.
+-> Crawling child 46/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/postgresql/.
+-> Crawling child 47/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/rand/.
+-> Crawling child 48/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/rant/.
+-> Crawling child 49/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/remote-work/.
+-> Crawling child 50/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/routing/.
+-> Crawling child 51/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/search/.
+-> Crawling child 52/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/security/.
+-> Crawling child 53/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/slices/.
+-> Crawling child 54/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/sorting/.
+-> Crawling child 55/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/sql/.
+-> Crawling child 56/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/strings/.
+-> Crawling child 57/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/sublime-text/.
+-> Crawling child 58/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/talks/.
+-> Crawling child 59/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/tdd/.
+-> Crawling child 60/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/templates/.
+-> Crawling child 61/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/testing/.
+-> Crawling child 62/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/tools/.
+-> Crawling child 63/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/trees/.
+-> Crawling child 64/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/ubuntu/.
+-> Crawling child 65/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/vgo/.
+-> Crawling child 66/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags/web-development/.
+-> Crawling child 67/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags//all/.
+-> Crawling child 68/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags//series.
+-> Crawling child 69/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags//tags/.
+-> Crawling child 70/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags//about.
+-> Crawling child 71/72 of https://www.calhoun.io/tags/ : https://www.calhoun.io/tags//courses.
+<- [https://www.calhoun.io/tags/] 0/72 Waiting for child https://www.calhoun.io/tags//series.
+<- Done with https://www.calhoun.io/tags//courses, depth 0.
+<- [https://www.calhoun.io/tags/] 1/72 Waiting for child https://www.calhoun.io/tags//about.
+-> Crawling child 0/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//series.
+-> Crawling child 1/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//about.
+-> Crawling child 2/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//courses.
+-> Crawling child 3/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-records-using-sql/.
+-> Crawling child 4/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//inserting-records-into-a-postgresql-database-with-gos-database-sql-package/.
+-> Crawling child 5/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/.
+-> Crawling child 6/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-records-using-sql/.
+-> Crawling child 7/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//inserting-records-into-a-postgresql-database-with-gos-database-sql-package/.
+-> Crawling child 8/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/.
+-> Crawling child 9/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//all/.
+-> Crawling child 10/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//series.
+-> Crawling child 11/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//tags/.
+-> Crawling child 12/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//about.
+-> Crawling child 13/14 of https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/ : https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//courses.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 0/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//series.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//courses, depth 0.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 1/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//about.
+-> Crawling child 0/8 of https://www.calhoun.io/scholarship-for-go-courses/ : https://www.calhoun.io/scholarship-for-go-courses//series.
+-> Crawling child 1/8 of https://www.calhoun.io/scholarship-for-go-courses/ : https://www.calhoun.io/scholarship-for-go-courses//about.
+-> Crawling child 2/8 of https://www.calhoun.io/scholarship-for-go-courses/ : https://www.calhoun.io/scholarship-for-go-courses//courses.
+-> Crawling child 3/8 of https://www.calhoun.io/scholarship-for-go-courses/ : https://www.calhoun.io/scholarship-for-go-courses//all/.
+-> Crawling child 4/8 of https://www.calhoun.io/scholarship-for-go-courses/ : https://www.calhoun.io/scholarship-for-go-courses//series.
+-> Crawling child 5/8 of https://www.calhoun.io/scholarship-for-go-courses/ : https://www.calhoun.io/scholarship-for-go-courses//tags/.
+-> Crawling child 6/8 of https://www.calhoun.io/scholarship-for-go-courses/ : https://www.calhoun.io/scholarship-for-go-courses//about.
+-> Crawling child 7/8 of https://www.calhoun.io/scholarship-for-go-courses/ : https://www.calhoun.io/scholarship-for-go-courses//courses.
+<- [https://www.calhoun.io/scholarship-for-go-courses/] 0/8 Waiting for child https://www.calhoun.io/scholarship-for-go-courses//series.
+<- Done with https://www.calhoun.io/scholarship-for-go-courses//courses, depth 0.
+<- [https://www.calhoun.io/scholarship-for-go-courses/] 1/8 Waiting for child https://www.calhoun.io/scholarship-for-go-courses//about.
+<- Done with https://www.calhoun.io/tags//series, depth 0.
+<- [https://www.calhoun.io/tags/] 2/72 Waiting for child https://www.calhoun.io/tags//courses.
+<- Done with https://www.calhoun.io/tags//about, depth 0.
+<- [https://www.calhoun.io/tags/] 3/72 Waiting for child https://www.calhoun.io/tags/algorithms/.
+<- Done with https://www.calhoun.io/tags//courses, depth 0.
+<- [https://www.calhoun.io/tags/] 4/72 Waiting for child https://www.calhoun.io/tags/api/.
+<- Done with https://www.calhoun.io/tags/algorithms/, depth 0.
+<- [https://www.calhoun.io/tags/] 5/72 Waiting for child https://www.calhoun.io/tags/arrays/.
+<- Done with https://www.calhoun.io/tags/api/, depth 0.
+<- [https://www.calhoun.io/tags/] 6/72 Waiting for child https://www.calhoun.io/tags/bcrypt/.
+<- Done with https://www.calhoun.io/tags/arrays/, depth 0.
+<- [https://www.calhoun.io/tags/] 7/72 Waiting for child https://www.calhoun.io/tags/beginner/.
+<- Done with https://www.calhoun.io/tags/bcrypt/, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//all/, depth 0.
+<- Done with https://www.calhoun.io/tags/code-design/, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//about, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//courses, depth 0.
+<- Done with https://www.calhoun.io/tags/databases/, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//inserting-records-into-a-postgresql-database-with-gos-database-sql-package/, depth 0.
+<- [https://www.calhoun.io/tags/] 8/72 Waiting for child https://www.calhoun.io/tags/binary-serach/.
+<- [https://www.calhoun.io/tags/] 9/72 Waiting for child https://www.calhoun.io/tags/bubble-sort/.
+<- [https://www.calhoun.io/tags/] 10/72 Waiting for child https://www.calhoun.io/tags/bytes/.
+<- Done with https://www.calhoun.io/tags/bubble-sort/, depth 0.
+<- [https://www.calhoun.io/tags/] 11/72 Waiting for child https://www.calhoun.io/tags/caddy/.
+<- Done with https://www.calhoun.io/tags/sorting/, depth 0.
+<- Done with https://www.calhoun.io/tags/graph-theory/, depth 0.
+<- Done with https://www.calhoun.io/tags/sublime-text/, depth 0.
+<- Done with https://www.calhoun.io/tags/macosx/, depth 0.
+<- Done with https://www.calhoun.io/tags/trees/, depth 0.
+<- Done with https://www.calhoun.io/tags/podcasts/, depth 0.
+<- Done with https://www.calhoun.io/tags//tags/, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//about, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//series, depth 0.
+<- Done with https://www.calhoun.io/tags/capacity/, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//series, depth 0.
+<- Done with https://www.calhoun.io/tags/rand/, depth 0.
+<- Done with https://www.calhoun.io/tags/concurrency/, depth 0.
+<- Done with https://www.calhoun.io/tags/context/, depth 0.
+<- Done with https://www.calhoun.io/tags/cookies/, depth 0.
+<- Done with https://www.calhoun.io/tags/data-structures/, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-records-using-sql/, depth 0.
+<- Done with https://www.calhoun.io/tags/rant/, depth 0.
+<- Done with https://www.calhoun.io/tags/remote-work/, depth 0.
+<- Done with https://www.calhoun.io/tags/routing/, depth 0.
+<- Done with https://www.calhoun.io/tags/search/, depth 0.
+<- Done with https://www.calhoun.io/tags/security/, depth 0.
+<- Done with https://www.calhoun.io/tags/slices/, depth 0.
+<- Done with https://www.calhoun.io/tags/caddy/, depth 0.
+<- Done with https://www.calhoun.io/tags/dependency-management/, depth 0.
+<- Done with https://www.calhoun.io/tags/dfs/, depth 0.
+<- Done with https://www.calhoun.io/tags/encoding/, depth 0.
+<- Done with https://www.calhoun.io/tags/errors/, depth 0.
+<- Done with https://www.calhoun.io/tags/functional-options/, depth 0.
+<- Done with https://www.calhoun.io/tags/generation/, depth 0.
+<- Done with https://www.calhoun.io/tags/generics/, depth 0.
+<- Done with https://www.calhoun.io/tags/gophercises/, depth 0.
+<- Done with https://www.calhoun.io/tags/goroutines/, depth 0.
+<- Done with https://www.calhoun.io/tags/gotime/, depth 0.
+<- [https://www.calhoun.io/tags/] 12/72 Waiting for child https://www.calhoun.io/tags/capacity/.
+<- [https://www.calhoun.io/tags/] 13/72 Waiting for child https://www.calhoun.io/tags/channels/.
+<- [https://www.calhoun.io/tags/] 14/72 Waiting for child https://www.calhoun.io/tags/closures/.
+<- [https://www.calhoun.io/tags/] 15/72 Waiting for child https://www.calhoun.io/tags/code-design/.
+<- [https://www.calhoun.io/tags/] 16/72 Waiting for child https://www.calhoun.io/tags/concurrency/.
+<- [https://www.calhoun.io/tags/] 17/72 Waiting for child https://www.calhoun.io/tags/context/.
+<- [https://www.calhoun.io/tags/] 18/72 Waiting for child https://www.calhoun.io/tags/cookies/.
+<- [https://www.calhoun.io/tags/] 19/72 Waiting for child https://www.calhoun.io/tags/data-structures/.
+<- [https://www.calhoun.io/tags/] 20/72 Waiting for child https://www.calhoun.io/tags/databases/.
+<- [https://www.calhoun.io/tags/] 21/72 Waiting for child https://www.calhoun.io/tags/dependency-management/.
+<- [https://www.calhoun.io/tags/] 22/72 Waiting for child https://www.calhoun.io/tags/dfs/.
+<- [https://www.calhoun.io/tags/] 23/72 Waiting for child https://www.calhoun.io/tags/encoding/.
+<- [https://www.calhoun.io/tags/] 24/72 Waiting for child https://www.calhoun.io/tags/errors/.
+<- [https://www.calhoun.io/tags/] 25/72 Waiting for child https://www.calhoun.io/tags/functional-options/.
+<- [https://www.calhoun.io/tags/] 26/72 Waiting for child https://www.calhoun.io/tags/generation/.
+<- [https://www.calhoun.io/tags/] 27/72 Waiting for child https://www.calhoun.io/tags/generics/.
+<- [https://www.calhoun.io/tags/] 28/72 Waiting for child https://www.calhoun.io/tags/gophercises/.
+<- Done with https://www.calhoun.io/tags/html/, depth 0.
+<- Done with https://www.calhoun.io/tags/named-return-variables/, depth 0.
+<- Done with https://www.calhoun.io/tags/net/http/, depth 0.
+<- Done with https://www.calhoun.io/tags/nil/, depth 0.
+<- Done with https://www.calhoun.io/tags/orms/, depth 0.
+<- Done with https://www.calhoun.io/tags/panic/recover/, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-records-using-sql/, depth 0.
+<- Done with https://www.calhoun.io/tags/ubuntu/, depth 0.
+<- Done with https://www.calhoun.io/tags/vgo/, depth 0.
+<- Done with https://www.calhoun.io/tags/web-development/, depth 0.
+<- Done with https://www.calhoun.io/tags//all/, depth 0.
+<- Done with https://www.calhoun.io/tags//series, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//inserting-records-into-a-postgresql-database-with-gos-database-sql-package/, depth 0.
+<- Done with https://www.calhoun.io/tags/postgresql/, depth 0.
+<- Done with https://www.calhoun.io/tags/beginner/, depth 0.
+<- Done with https://www.calhoun.io/tags/binary-serach/, depth 0.
+<- Done with https://www.calhoun.io/tags/bytes/, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/, depth 0.
+<- Done with https://www.calhoun.io/tags//about, depth 0.
+<- Done with https://www.calhoun.io/scholarship-for-go-courses//series, depth 0.
+<- [https://www.calhoun.io/scholarship-for-go-courses/] 2/8 Waiting for child https://www.calhoun.io/scholarship-for-go-courses//courses.
+<- Done with https://www.calhoun.io/scholarship-for-go-courses//courses, depth 0.
+<- Done with https://www.calhoun.io/scholarship-for-go-courses//about, depth 0.
+<- Done with https://www.calhoun.io/scholarship-for-go-courses//series, depth 0.
+<- Done with https://www.calhoun.io/scholarship-for-go-courses//tags/, depth 0.
+<- Done with https://www.calhoun.io/scholarship-for-go-courses//about, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//tags/, depth 0.
+<- Done with https://www.calhoun.io/tags/sql/, depth 0.
+<- Done with https://www.calhoun.io/tags/closures/, depth 0.
+<- Done with https://www.calhoun.io/tags/strings/, depth 0.
+<- Done with https://www.calhoun.io/tags/channels/, depth 0.
+<- Done with https://www.calhoun.io/tags/hashing/, depth 0.
+<- [https://www.calhoun.io/tags/] 29/72 Waiting for child https://www.calhoun.io/tags/goroutines/.
+<- [https://www.calhoun.io/tags/] 30/72 Waiting for child https://www.calhoun.io/tags/gotime/.
+<- [https://www.calhoun.io/tags/] 31/72 Waiting for child https://www.calhoun.io/tags/graph-theory/.
+<- [https://www.calhoun.io/tags/] 32/72 Waiting for child https://www.calhoun.io/tags/hashing/.
+<- [https://www.calhoun.io/tags/] 33/72 Waiting for child https://www.calhoun.io/tags/html/.
+<- [https://www.calhoun.io/tags/] 34/72 Waiting for child https://www.calhoun.io/tags/interfaces/.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 2/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//courses.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 3/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-records-using-sql/.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 4/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//inserting-records-into-a-postgresql-database-with-gos-database-sql-package/.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 5/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 6/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//updating-and-deleting-records-using-sql/.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 7/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//inserting-records-into-a-postgresql-database-with-gos-database-sql-package/.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 8/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//using-postgresql-with-go/.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 9/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//all/.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 10/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//series.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 11/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//tags/.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 12/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//about.
+<- [https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/] 13/14 Waiting for child https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package//courses.
+<- Done with https://www.calhoun.io/tags/tools/, depth 0.
+<- [https://www.calhoun.io/tags/] 35/72 Waiting for child https://www.calhoun.io/tags/json/.
+<- [https://www.calhoun.io/tags/] 36/72 Waiting for child https://www.calhoun.io/tags/lets-learn-algorithms/.
+<- [https://www.calhoun.io/tags/] 37/72 Waiting for child https://www.calhoun.io/tags/macosx/.
+<- [https://www.calhoun.io/tags/] 38/72 Waiting for child https://www.calhoun.io/tags/middleware/.
+<- [https://www.calhoun.io/tags/] 39/72 Waiting for child https://www.calhoun.io/tags/mvc/.
+<- [https://www.calhoun.io/tags/] 40/72 Waiting for child https://www.calhoun.io/tags/named-return-variables/.
+<- [https://www.calhoun.io/tags/] 41/72 Waiting for child https://www.calhoun.io/tags/net/http/.
+<- [https://www.calhoun.io/tags/] 42/72 Waiting for child https://www.calhoun.io/tags/nil/.
+<- [https://www.calhoun.io/tags/] 43/72 Waiting for child https://www.calhoun.io/tags/orms/.
+<- [https://www.calhoun.io/tags/] 44/72 Waiting for child https://www.calhoun.io/tags/panic/recover/.
+<- [https://www.calhoun.io/tags/] 45/72 Waiting for child https://www.calhoun.io/tags/podcasts/.
+<- [https://www.calhoun.io/tags/] 46/72 Waiting for child https://www.calhoun.io/tags/postgresql/.
+<- [https://www.calhoun.io/tags/] 47/72 Waiting for child https://www.calhoun.io/tags/rand/.
+<- [https://www.calhoun.io/tags/] 48/72 Waiting for child https://www.calhoun.io/tags/rant/.
+<- [https://www.calhoun.io/tags/] 49/72 Waiting for child https://www.calhoun.io/tags/remote-work/.
+<- [https://www.calhoun.io/tags/] 50/72 Waiting for child https://www.calhoun.io/tags/routing/.
+<- [https://www.calhoun.io/tags/] 51/72 Waiting for child https://www.calhoun.io/tags/search/.
+<- [https://www.calhoun.io/tags/] 52/72 Waiting for child https://www.calhoun.io/tags/security/.
+<- [https://www.calhoun.io/scholarship-for-go-courses/] 3/8 Waiting for child https://www.calhoun.io/scholarship-for-go-courses//all/.
+<- [https://www.calhoun.io/scholarship-for-go-courses/] 4/8 Waiting for child https://www.calhoun.io/scholarship-for-go-courses//series.
+<- [https://www.calhoun.io/scholarship-for-go-courses/] 5/8 Waiting for child https://www.calhoun.io/scholarship-for-go-courses//tags/.
+<- [https://www.calhoun.io/scholarship-for-go-courses/] 6/8 Waiting for child https://www.calhoun.io/scholarship-for-go-courses//about.
+<- [https://www.calhoun.io/scholarship-for-go-courses/] 7/8 Waiting for child https://www.calhoun.io/scholarship-for-go-courses//courses.
+<- Done with https://www.calhoun.io/tags/testing/, depth 0.
+<- Done with https://www.calhoun.io/connecting-to-a-postgresql-database-with-gos-database-sql-package/
+<- [https://www.calhoun.io] 24/27 Waiting for child https://www.calhoun.io/tags/.
+<- Done with https://www.calhoun.io/tags/mvc/, depth 0.
+<- Done with https://www.calhoun.io/tags/json/, depth 0.
+<- Done with https://www.calhoun.io/tags/interfaces/, depth 0.
+<- Done with https://www.calhoun.io/tags/lets-learn-algorithms/, depth 0.
+<- [https://www.calhoun.io/tags/] 53/72 Waiting for child https://www.calhoun.io/tags/slices/.
+<- [https://www.calhoun.io/tags/] 54/72 Waiting for child https://www.calhoun.io/tags/sorting/.
+<- Done with https://www.calhoun.io/tags/talks/, depth 0.
+<- Done with https://www.calhoun.io/tags/tdd/, depth 0.
+<- Done with https://www.calhoun.io/tags/templates/, depth 0.
+<- Done with https://www.calhoun.io/tags/middleware/, depth 0.
+<- Done with https://www.calhoun.io/scholarship-for-go-courses//all/, depth 0.
+<- Done with https://www.calhoun.io/scholarship-for-go-courses/
+<- [https://www.calhoun.io] 25/27 Waiting for child https://www.calhoun.io/about.
+<- [https://www.calhoun.io/tags/] 55/72 Waiting for child https://www.calhoun.io/tags/sql/.
+<- [https://www.calhoun.io/tags/] 56/72 Waiting for child https://www.calhoun.io/tags/strings/.
+<- [https://www.calhoun.io/tags/] 57/72 Waiting for child https://www.calhoun.io/tags/sublime-text/.
+<- [https://www.calhoun.io/tags/] 58/72 Waiting for child https://www.calhoun.io/tags/talks/.
+<- [https://www.calhoun.io/tags/] 59/72 Waiting for child https://www.calhoun.io/tags/tdd/.
+<- [https://www.calhoun.io/tags/] 60/72 Waiting for child https://www.calhoun.io/tags/templates/.
+<- [https://www.calhoun.io/tags/] 61/72 Waiting for child https://www.calhoun.io/tags/testing/.
+<- [https://www.calhoun.io/tags/] 62/72 Waiting for child https://www.calhoun.io/tags/tools/.
+<- [https://www.calhoun.io/tags/] 63/72 Waiting for child https://www.calhoun.io/tags/trees/.
+<- [https://www.calhoun.io/tags/] 64/72 Waiting for child https://www.calhoun.io/tags/ubuntu/.
+<- [https://www.calhoun.io/tags/] 65/72 Waiting for child https://www.calhoun.io/tags/vgo/.
+<- [https://www.calhoun.io/tags/] 66/72 Waiting for child https://www.calhoun.io/tags/web-development/.
+<- [https://www.calhoun.io/tags/] 67/72 Waiting for child https://www.calhoun.io/tags//all/.
+<- [https://www.calhoun.io/tags/] 68/72 Waiting for child https://www.calhoun.io/tags//series.
+<- [https://www.calhoun.io/tags/] 69/72 Waiting for child https://www.calhoun.io/tags//tags/.
+<- [https://www.calhoun.io/tags/] 70/72 Waiting for child https://www.calhoun.io/tags//about.
+<- [https://www.calhoun.io/tags/] 71/72 Waiting for child https://www.calhoun.io/tags//courses.
+<- Done with https://www.calhoun.io/tags/
+<- [https://www.calhoun.io] 26/27 Waiting for child https://www.calhoun.io/courses.
+-> Crawling child 0/10 of https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/ : https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//series.
+-> Crawling child 1/10 of https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/ : https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//about.
+-> Crawling child 2/10 of https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/ : https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//courses.
+-> Crawling child 3/10 of https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/ : https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//how-to-shuffle-arrays-and-slices-in-go/.
+-> Crawling child 4/10 of https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/ : https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//why-are-slices-sometimes-altered-when-passed-by-value-in-go/.
+-> Crawling child 5/10 of https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/ : https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//all/.
+-> Crawling child 6/10 of https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/ : https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//series.
+-> Crawling child 7/10 of https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/ : https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//tags/.
+<- Done with https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//how-to-shuffle-arrays-and-slices-in-go/, depth 0.
+<- Done with https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//series, depth 0.
+<- Done with https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//about, depth 0.
+<- Done with https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//all/, depth 0.
+<- Done with https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//why-are-slices-sometimes-altered-when-passed-by-value-in-go/, depth 0.
+-> Crawling child 8/10 of https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/ : https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//about.
+-> Crawling child 9/10 of https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/ : https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//courses.
+<- Done with https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//about, depth 0.
+<- Done with https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//tags/, depth 0.
+<- Done with https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//series, depth 0.
+<- [https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/] 0/10 Waiting for child https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//series.
+<- [https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/] 1/10 Waiting for child https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//about.
+<- [https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/] 2/10 Waiting for child https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//courses.
+<- Done with https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//courses, depth 0.
+<- Done with https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//courses, depth 0.
+<- [https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/] 3/10 Waiting for child https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//how-to-shuffle-arrays-and-slices-in-go/.
+<- [https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/] 4/10 Waiting for child https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//why-are-slices-sometimes-altered-when-passed-by-value-in-go/.
+<- [https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/] 5/10 Waiting for child https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//all/.
+<- [https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/] 6/10 Waiting for child https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//series.
+<- [https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/] 7/10 Waiting for child https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//tags/.
+<- [https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/] 8/10 Waiting for child https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//about.
+<- [https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/] 9/10 Waiting for child https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go//courses.
+<- Done with https://www.calhoun.io/how-to-use-slice-capacity-and-length-in-go/
+<- Done with https://www.calhoun.io
